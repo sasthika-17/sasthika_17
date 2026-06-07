@@ -13,7 +13,7 @@ I just graduated with a **BCA in Data Science** from VISTAS, Chennai (CGPA: 7.99
 
 I care about one thing: finding the story inside data and translating it into something a business can act on.
 
-🎯 Actively looking for **Data Analyst / MIS Executive / Business Analyst** roles in **Chennai or remote**.
+🎯 Actively looking for **Data Analyst / MIS Executive / junior data analyst roles in **Chennai.
 
 📍 Based in Kanchipuram, Tamil Nadu
 
